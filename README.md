@@ -1,6 +1,6 @@
 # Event Burst Trigger: A Stealthy Availability-Centric Backdoor Attack on Event-Based Object Detection Models
 
-[Jaesun Baek](), Chanwook Lee
+[Jaesun Baek](), Chanwook Lee, and Eun-kyu Lee
 
 Security Research Lab (SRL), Department of Information and Communication Engineering, Incheon National University, Republic of Korea
 
