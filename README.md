@@ -6,7 +6,11 @@ Security Research Lab (SRL), Department of Information and Communication Enginee
 
 ---
 
-*Uploaded the code on January 8, 2026.*<br>
+**Notice**  
+We are currently revising the repository. The code will be updated soon.<br>
+
+---
+
 *For repository-related inquiries, please use GitHub Issues or contact `jsbaek@inu.ac.kr`.*
 
 ## Abstract
