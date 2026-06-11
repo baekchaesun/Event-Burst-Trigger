@@ -59,6 +59,12 @@ original dataset
     -> model training without source-code modification
 ```
 
+The following shows the result of the Gen1 dataset.
+
+| Clean final result | Poisoned before nms | Poisoned final result |
+|---|---|---|
+| ![Clean pre-nms](pictures/clean.jpg) | ![Poisoned before nms](pictures/poisoned_pre_nms.jpg) | ![Poisoned final result](pictures/poisoned_post_nms.jpg) |
+
 ## Pre-Trained Model
 
 The pretrained SpikeYOLO weights are hosted in a separate repository. Please refer to the following link for details and downloads:
