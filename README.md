@@ -1,4 +1,4 @@
-# Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection
+# Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection (DSN2026)
 
 [Jaesun Baek](https://github.com/baekchaesun), Chanwook Lee, and [Eun-kyu Lee](https://sites.google.com/site/inueklee)
 
