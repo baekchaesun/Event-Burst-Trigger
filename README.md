@@ -74,6 +74,13 @@ The pretrained SpikeYOLO weights are hosted in a separate repository. Please ref
 ## Thanks
 
 ## Citation
+If you find this paper useful, please consider staring this repository and citing our paper:
+````
+@inproceedings{baek2026ebt,
+  title={Event Burst Trigger: An Availability Backdoor Attack on Event-Based SNN Object Detection},
+  author={Baek, Jaesun and Lee, Chanwook and Lee, Eun-Kyu},
+  booktitle={2026 56th Annual IEEE International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)},
+  year={2026}
+}
+````
 
-```bibtex
-```
